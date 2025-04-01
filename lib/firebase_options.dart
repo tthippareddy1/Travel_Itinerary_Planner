@@ -41,49 +41,49 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCKCBrDlvq0lsGyEYWbnuS1iCxT_ePruQY',
-    appId: '1:321435976541:web:3a9a10bb619950a5969eb4',
-    messagingSenderId: '321435976541',
-    projectId: 'inventory-management-flutter',
-    authDomain: 'inventory-management-flutter.firebaseapp.com',
-    storageBucket: 'inventory-management-flutter.firebasestorage.app',
-    measurementId: 'G-V5BE5D3N48',
+    apiKey: 'AIzaSyDXfOaZYbZZtJzxmKItmuaRfkqsHOYF5EI',
+    appId: '1:108703758359:web:908527325fa27040b6c452',
+    messagingSenderId: '108703758359',
+    projectId: 'travelitineraryplanner-8411f',
+    authDomain: 'travelitineraryplanner-8411f.firebaseapp.com',
+    storageBucket: 'travelitineraryplanner-8411f.firebasestorage.app',
+    measurementId: 'G-WR2GLQPWK6',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDUil11iAxKlywKk8T4EZ6Zmx3oPaI95Ek',
-    appId: '1:321435976541:android:3d81b94ae59a5d31969eb4',
-    messagingSenderId: '321435976541',
-    projectId: 'inventory-management-flutter',
-    storageBucket: 'inventory-management-flutter.firebasestorage.app',
+    apiKey: 'AIzaSyAKqAJc5BDc3i8P4iQV4xzrGmOKg5Q7RBM',
+    appId: '1:108703758359:android:3144dc05e207014eb6c452',
+    messagingSenderId: '108703758359',
+    projectId: 'travelitineraryplanner-8411f',
+    storageBucket: 'travelitineraryplanner-8411f.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCxo2MUThNbZl1n3eNd-MZjy0z3DYERNP4',
-    appId: '1:321435976541:ios:16707d38049aeabf969eb4',
-    messagingSenderId: '321435976541',
-    projectId: 'inventory-management-flutter',
-    storageBucket: 'inventory-management-flutter.firebasestorage.app',
-    iosBundleId: 'com.example.wandermate',
+    apiKey: 'AIzaSyBVvKjL3GCBJjHuLG16t-7a0HGLgb99-dw',
+    appId: '1:108703758359:ios:1157c0d840b34088b6c452',
+    messagingSenderId: '108703758359',
+    projectId: 'travelitineraryplanner-8411f',
+    storageBucket: 'travelitineraryplanner-8411f.firebasestorage.app',
+    iosBundleId: 'com.example.travelitineraryplanner',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCxo2MUThNbZl1n3eNd-MZjy0z3DYERNP4',
-    appId: '1:321435976541:ios:16707d38049aeabf969eb4',
-    messagingSenderId: '321435976541',
-    projectId: 'inventory-management-flutter',
-    storageBucket: 'inventory-management-flutter.firebasestorage.app',
-    iosBundleId: 'com.example.wandermate',
+    apiKey: 'AIzaSyBVvKjL3GCBJjHuLG16t-7a0HGLgb99-dw',
+    appId: '1:108703758359:ios:1157c0d840b34088b6c452',
+    messagingSenderId: '108703758359',
+    projectId: 'travelitineraryplanner-8411f',
+    storageBucket: 'travelitineraryplanner-8411f.firebasestorage.app',
+    iosBundleId: 'com.example.travelitineraryplanner',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCKCBrDlvq0lsGyEYWbnuS1iCxT_ePruQY',
-    appId: '1:321435976541:web:c032760072c5f0c4969eb4',
-    messagingSenderId: '321435976541',
-    projectId: 'inventory-management-flutter',
-    authDomain: 'inventory-management-flutter.firebaseapp.com',
-    storageBucket: 'inventory-management-flutter.firebasestorage.app',
-    measurementId: 'G-1EBGWS9T3P',
+    apiKey: 'AIzaSyDXfOaZYbZZtJzxmKItmuaRfkqsHOYF5EI',
+    appId: '1:108703758359:web:e25eebe924d9b5cdb6c452',
+    messagingSenderId: '108703758359',
+    projectId: 'travelitineraryplanner-8411f',
+    authDomain: 'travelitineraryplanner-8411f.firebaseapp.com',
+    storageBucket: 'travelitineraryplanner-8411f.firebasestorage.app',
+    measurementId: 'G-VVXFH6S6GN',
   );
 
 }

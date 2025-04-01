@@ -1,6 +1,6 @@
 {
-    "name": "wandermate",
-    "short_name": "wandermate",
+    "name": "travelitineraryplanner",
+    "short_name": "travelitineraryplanner",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

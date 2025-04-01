@@ -14,7 +14,7 @@ void showAlert(BuildContext context, String title, String message,
               Navigator.of(context).pop(); // Close the alert
               onPressed!();
             },
-            child: Text('OK'),
+            child: const Text('OK'),
           ),
         ],
       );

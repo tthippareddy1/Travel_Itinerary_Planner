@@ -1,4 +1,4 @@
-package com.example.wandermate
+package com.example.travelitineraryplanner
 
 import io.flutter.embedding.android.FlutterActivity
 

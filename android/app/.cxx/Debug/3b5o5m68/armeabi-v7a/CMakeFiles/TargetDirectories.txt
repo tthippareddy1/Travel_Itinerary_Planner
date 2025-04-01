@@ -1,0 +1,2 @@
+/Users/tarunkumarreddythippareddy/mobile_app_dev/project1/Travel_Itinerary_Planner/android/app/.cxx/Debug/3b5o5m68/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/tarunkumarreddythippareddy/mobile_app_dev/project1/Travel_Itinerary_Planner/android/app/.cxx/Debug/3b5o5m68/armeabi-v7a/CMakeFiles/rebuild_cache.dir

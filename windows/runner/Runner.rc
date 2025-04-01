@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "wandermate" "\0"
+            VALUE "FileDescription", "travelitineraryplanner" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "wandermate" "\0"
+            VALUE "InternalName", "travelitineraryplanner" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2024 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "wandermate.exe" "\0"
-            VALUE "ProductName", "wandermate" "\0"
+            VALUE "OriginalFilename", "travelitineraryplanner.exe" "\0"
+            VALUE "ProductName", "travelitineraryplanner" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

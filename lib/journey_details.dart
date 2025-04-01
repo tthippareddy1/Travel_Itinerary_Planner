@@ -40,7 +40,7 @@ class _JourneyDetailsState extends State<JourneyDetails> {
   }
 
   Future<void> fetchExchangeRates() async {
-    final apiKey = "YOUR_CURRENCY_LAYER_API_KEY"; // Replace with your API key
+    const apiKey = "YOUR_CURRENCY_LAYER_API_KEY"; // Replace with your API key
     final url =
         "http://api.currencylayer.com/live?access_key=$apiKey&currencies=EUR,GBP,INR,AUD,CAD";
 
@@ -81,25 +81,25 @@ class _JourneyDetailsState extends State<JourneyDetails> {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            Text("Source: ${widget.startLocation['city']}", style: TextStyle(fontSize: 18)),
-            SizedBox(height: 8),
+            Text("Source: ${widget.startLocation['city']}", style: const TextStyle(fontSize: 18)),
+            const SizedBox(height: 8),
             Text("Destination: ${widget.endLocation['city']}",
-                style: TextStyle(fontSize: 18)),
-            SizedBox(height: 8),
+                style: const TextStyle(fontSize: 18)),
+            const SizedBox(height: 8),
             Text("Start Time: ${widget.timings.toDate().toString()}",
-                style: TextStyle(fontSize: 18)),
-            SizedBox(height: 8),
+                style: const TextStyle(fontSize: 18)),
+            const SizedBox(height: 8),
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: [
-                Text("Round Trip Amount:", style: TextStyle(fontSize: 18)),
+                const Text("Round Trip Amount:", style: TextStyle(fontSize: 18)),
                 Text(
                   "${convertedAmount.toStringAsFixed(2)} $selectedCurrency",
-                  style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
+                  style: const TextStyle(fontSize: 18, fontWeight: FontWeight.bold),
                 ),
               ],
             ),
-            SizedBox(height: 16),
+            const SizedBox(height: 16),
             DropdownButton<String>(
               value: selectedCurrency,
               onChanged: (value) {

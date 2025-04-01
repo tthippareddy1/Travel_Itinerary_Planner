@@ -1,10 +1,10 @@
-# Wandermate
+# travelitineraryplanner
 
-Wandermate is a travel companion app designed to simplify trip planning and foster connections between like-minded travelers. The app provides tools for discovering nearby attractions, creating or joining trips, and managing trip details with real-time currency conversion.
+travelitineraryplanner is a travel companion app designed to simplify trip planning and foster connections between like-minded travelers. The app provides tools for discovering nearby attractions, creating or joining trips, and managing trip details with real-time currency conversion.
 
 ## Objective
 
-Wandermate aims to enhance the travel experience by:
+travelitineraryplanner aims to enhance the travel experience by:
 - Simplifying the discovery of nearby attractions based on the user's location.
 - Enabling hassle-free trip planning with start/end location selection and trip cost management.
 - Fostering connections between travelers through trip-sharing features.
@@ -82,4 +82,4 @@ This project is built using Flutter. To get started with development, refer to t
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Raviteja582/wandermate.git
+   https://github.com/tthippareddy1/Travel_Itinerary_Planner
